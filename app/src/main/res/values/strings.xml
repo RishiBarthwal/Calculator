@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Add">+</string>
+    <string name="Subtract">-</string>
+    <string name="Multiply">*</string>
+    <string name="Divide">/</string>
+    <string name="enter_second_value">Enter second value</string>
+    <string name="enter_first_value">Enter first value</string>
+</resources>
